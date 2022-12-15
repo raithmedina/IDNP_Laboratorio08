@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Formulario Postulante</string>
+    <string name="agregar_datos" >Datos Postulante</string>
+    <string name="nombre" >Nombre</string>
+    <string name="leer_datos_del_archivo" >Lista del Alumnos</string>
+    <string name="apellidos" >Apellidos</string>
+    <string name="edad" >Edad</string>
+    <string name="guardar_en_lista">Guardar en Lista</string>
+    <string name="leer_del_archivo">Cargar del Archivo</string>
+    <string name="mostrar_datos">Mostrar Datos</string>
+    <string name="guardar_al_archivo">Guardar al Archivo</string>
+    <string name="lista_de_nombres">Lista de Nombres</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento</string>
+    <string name="cole_proce">Colegio de Procedencia</string>
+    <string name="postula">Postula</string>
+    <string name="fecha_nacimiento_abre">Fecha Nac.</string>
+    <string name="cole_proce_corto">Col. Proc</string>
+</resources>
